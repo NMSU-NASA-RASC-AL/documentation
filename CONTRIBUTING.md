@@ -1,6 +1,6 @@
 # Contributing Guide for the NASA RASC-AL Team
 ## 1. The Most Important Rule...
-The "main" branch serves as our safe zone. The code in the "main" branch should always work. Considering this, please do not directly edit the code in this branch.
+The "main" branch serves as our safe zone. The code in the "main" branch should always work. Considering this, ***please do not directly edit the code in this branch***.
 ## 2. How to Add New Stuff
 Whenever you want to make edits to the code, create a new branch. Creating a new branch allows you to edit code in your own personal workspace, without interfering with the main branch.
 The following command will allow you to simultaneously create a branch and make it your current working branch:
